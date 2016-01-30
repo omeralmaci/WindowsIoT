@@ -1,0 +1,1 @@
+D:\git\WindowsIoT\Project001\Project001\Project001.csproj;x86
